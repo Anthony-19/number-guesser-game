@@ -2,7 +2,7 @@
 
 The Number Guesser Game is a fun and interactive web app built with React.js.
 The player tries to guess a randomly generated number between 1 and 100 within a limited number of attempts.
-After each guess, feedback is provided — whether the guess is too high, too low, or correct.
+After each guess, feedback is provided — whether the guess is correct.
 
 -Features
 
